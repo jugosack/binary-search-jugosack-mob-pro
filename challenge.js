@@ -25,4 +25,3 @@ function sqrt_recursive(number, min_interval, max_interval) {       /// 9, 2, 10
 //console.log(sqrt(25))
 //console.log(sqrt(7056))
 
-///////////////////////////////////////////////
